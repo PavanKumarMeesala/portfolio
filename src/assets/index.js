@@ -35,7 +35,6 @@ export {
   git,
   html,
   javascript,
-  nodejs,
   reactjs,
   tailwind,
   logo,
